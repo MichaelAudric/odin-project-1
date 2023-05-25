@@ -85,3 +85,18 @@ body{
 .sub_container2{
     padding-bottom: 130px;
 }
+.sub_container3{
+    background-color: #E5E7EB;
+    padding: 130px 0;
+}
+.sub_container3 i{
+    font-size: 36px;
+    line-height: 50px;
+    word-spacing: 3px;
+}
+.sub_container3 p{
+    text-align: right;
+}
+.sub_container3 b{
+    font-weight: 950;
+}
