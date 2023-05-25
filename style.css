@@ -100,3 +100,27 @@ body{
 .sub_container3 b{
     font-weight: 950;
 }
+.sub_container4{
+    padding: 100px 0;
+}
+.sub_container4 .bluebox{
+    background-color: #3882F6;
+    padding: 30px 100px;
+    color: white;  
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+.sub_container4 .bluebox .button{
+    display: flex;
+    justify-content: center;
+    flex: 1;
+}
+.sub_container4 .bluebox .button a{
+    color: white;
+    text-decoration: none;
+    border: 2px white solid;
+    border-radius: 5px;
+    padding: 8px 30px;
+    font-weight: bold;
+}
